@@ -1,0 +1,24 @@
+
+<figure id="fig_1001">
+    <img src="./images/clonespotting2/01-clonespotting-klip.jpg" alt="01-clonespotting-klip.jpg" />
+    <figcaption>
+    01-clonespotting-klip.jpg
+    </figcaption>
+</figure>
+
+
+<figure id="fig_1002">
+    <img src="./images/clonespotting2/02-clonespotting-zombiegirl.jpg" alt="02-clonespotting-zombiegirl.jpg" />
+    <figcaption>
+    02-clonespotting-zombiegirl.jpg
+    </figcaption>
+</figure>
+
+
+<figure id="fig_1003">
+    <img src="./images/clonespotting2/03-clonespotting-zombieparrucchiere.jpg" alt="03-clonespotting-zombieparrucchiere.jpg" />
+    <figcaption>
+    03-clonespotting-zombieparrucchiere.jpg
+    </figcaption>
+</figure>
+
