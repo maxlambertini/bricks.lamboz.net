@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/</loc>
-<lastmod>2016-07-06T19:28:52-00:00</lastmod>
+<lastmod>2016-07-07T08:07:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bricks.lamboz.net/archives.html</loc>
-<lastmod>2016-07-06T19:28:52-00:00</lastmod>
+<lastmod>2016-07-07T08:07:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bricks.lamboz.net/tags.html</loc>
-<lastmod>2016-07-06T19:28:52-00:00</lastmod>
+<lastmod>2016-07-07T08:07:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bricks.lamboz.net/categories.html</loc>
-<lastmod>2016-07-06T19:28:52-00:00</lastmod>
+<lastmod>2016-07-07T08:07:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -257,7 +257,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/tag/i-figli-so-piezze-core.html</loc>
-<lastmod>2016-06-24T00:00:00+00:50</lastmod>
+<lastmod>2016-07-06T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -333,13 +333,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://bricks.lamboz.net/tag/fortezza.html</loc>
-<lastmod>2016-06-29T00:00:00+00:50</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://bricks.lamboz.net/tag/enlighten.html</loc>
 <lastmod>2014-06-28T21:20:00+00:50</lastmod>
 <changefreq>daily</changefreq>
@@ -382,6 +375,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://bricks.lamboz.net/tag/organizzazione.html</loc>
+<lastmod>2016-07-06T00:00:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://bricks.lamboz.net/tag/best-lock.html</loc>
 <lastmod>2015-11-23T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
@@ -403,8 +403,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://bricks.lamboz.net/tag/no-brand.html</loc>
-<lastmod>2016-03-24T00:00:00+00:50</lastmod>
+<loc>http://bricks.lamboz.net/tag/fortezza.html</loc>
+<lastmod>2016-06-29T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -501,8 +501,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://bricks.lamboz.net/tag/no-brand.html</loc>
+<lastmod>2016-03-24T00:00:00+00:50</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://bricks.lamboz.net/tag/clone-brands.html</loc>
-<lastmod>2016-06-29T00:00:00+00:50</lastmod>
+<lastmod>2016-07-06T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
