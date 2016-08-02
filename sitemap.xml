@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/</loc>
-<lastmod>2016-08-02T19:09:54-00:00</lastmod>
+<lastmod>2016-08-02T19:13:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bricks.lamboz.net/archives.html</loc>
-<lastmod>2016-08-02T19:09:54-00:00</lastmod>
+<lastmod>2016-08-02T19:13:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bricks.lamboz.net/tags.html</loc>
-<lastmod>2016-08-02T19:09:54-00:00</lastmod>
+<lastmod>2016-08-02T19:13:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bricks.lamboz.net/categories.html</loc>
-<lastmod>2016-08-02T19:09:54-00:00</lastmod>
+<lastmod>2016-08-02T19:13:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://bricks.lamboz.net/pages/istruzioni.html</loc>
 <lastmod>2015-10-25T00:00:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://bricks.lamboz.net/recensione_gudi_8216_the_storm_assault.html</loc>
+<lastmod>2016-08-03T00:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -257,7 +264,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/category/recensioni.html</loc>
-<lastmod>2016-06-29T00:00:00+00:50</lastmod>
+<lastmod>2016-08-03T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -292,7 +299,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/tag/carro-armato.html</loc>
-<lastmod>2016-06-29T00:00:00+00:50</lastmod>
+<lastmod>2016-08-03T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -306,7 +313,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/tag/mecha.html</loc>
-<lastmod>2016-01-07T00:00:00+00:50</lastmod>
+<lastmod>2016-08-03T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -327,7 +334,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/tag/immensely-strong-hands.html</loc>
-<lastmod>2016-06-29T00:00:00+00:50</lastmod>
+<lastmod>2016-08-03T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -348,7 +355,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/tag/fortezza.html</loc>
-<lastmod>2016-06-29T00:00:00+00:50</lastmod>
+<lastmod>2016-08-03T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -389,7 +396,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://bricks.lamboz.net/tag/lego.html</loc>
+<loc>http://bricks.lamboz.net/tag/pirati.html</loc>
 <lastmod>2016-07-29T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -467,7 +474,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/tag/gudi.html</loc>
-<lastmod>2016-06-29T00:00:00+00:50</lastmod>
+<lastmod>2016-08-03T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -523,7 +530,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/tag/clone-brands.html</loc>
-<lastmod>2016-07-06T00:00:00+00:50</lastmod>
+<lastmod>2016-08-03T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -565,7 +572,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/tag/tank.html</loc>
-<lastmod>2016-06-29T00:00:00+00:50</lastmod>
+<lastmod>2016-08-03T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -585,15 +592,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://bricks.lamboz.net/tag/pirati.html</loc>
-<lastmod>2016-07-29T00:00:00+00:50</lastmod>
+<loc>http://bricks.lamboz.net/tag/mixels.html</loc>
+<lastmod>2014-04-19T04:47:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://bricks.lamboz.net/tag/mixels.html</loc>
-<lastmod>2014-04-19T04:47:00+00:50</lastmod>
+<loc>http://bricks.lamboz.net/tag/lego.html</loc>
+<lastmod>2016-07-29T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -642,14 +649,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bricks.lamboz.net/tag/cloni-lego.html</loc>
-<lastmod>2016-06-29T00:00:00+00:50</lastmod>
+<lastmod>2016-08-03T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bricks.lamboz.net/author/maxl.html</loc>
-<lastmod>2016-07-29T00:00:00+00:50</lastmod>
+<lastmod>2016-08-03T00:00:00+00:50</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
